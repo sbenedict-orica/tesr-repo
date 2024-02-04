@@ -2,7 +2,7 @@ name: GitHub Actions Demo
 on: push
 jobs:
   Example-Actions-Job:
-    name: exploring GitHub Actions
+    name: Exploring GitHub Actions
     runs-on: ubuntu-latest
     steps: 
       # Display the event that triggered the workflow
